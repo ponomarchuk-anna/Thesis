@@ -1,0 +1,6 @@
+torch
+pillow
+numpy
+gradio
+opencv-python
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
